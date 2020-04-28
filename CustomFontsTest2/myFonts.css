@@ -3,7 +3,8 @@
 	font-family: 'SAP Fiori Icons 3';
 	src:
 		url('https://alexisbrockway-20.github.io/CustomFontsTest2/SAP-icons2.ttf') format('truetype'),
-		url('https://alexisbrockway-20.github.io/CustomFontsTest2/SAP-icons.ttf') format('truetype');
+		url('https://alexisbrockway-20.github.io/CustomFontsTest2/SAP-icons.ttf') format('truetype'),
+		url('https://alexisbrockway-20.github.io/CustomFontsTest2/OpenSans-Bold.ttf') format ('truetype');
 	font-weight: normal;
 	font-style: normal;
 }

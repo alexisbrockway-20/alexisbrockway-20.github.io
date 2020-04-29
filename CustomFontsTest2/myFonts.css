@@ -5,3 +5,10 @@
 	font-weight: normal;
 	font-style: normal;
 }
+/* Open Sans Bold */
+@font-face {
+	font-family: 'Test Font Fam';
+	src:	url('https://alexisbrockway-20.github.io/CustomFontsTest2/OpenSans-Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

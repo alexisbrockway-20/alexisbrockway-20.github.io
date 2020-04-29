@@ -1,0 +1,7 @@
+/* Open Sans Bold */
+@font-face {
+	font-family: 'Open Sans Bold';
+	src:	url('https://alexisbrockway-20.github.io/CustomFontsTest2/OpenSans-Bold.ttf') format ('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
